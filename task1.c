@@ -9,6 +9,8 @@
 
 #include <stdio.h>
 #include <string.h>
+#include <stdlib.h>
+#include <unistd.h>
 
 /* function that swaps the values of two pointers */
 void swap(char *a, char *b) {
